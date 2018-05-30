@@ -1,0 +1,42 @@
+body
+{
+    background-color: #595a5b
+}
+
+#black-rectangle
+{
+    position:fixed;
+    width:100%;
+    height:100px;
+    background-color: #000; 
+    left: 0;
+    right: 0;
+    top:0;
+}
+
+#blue-rectangle
+{
+    position:fixed;
+    width:100%;
+    height:20px;
+    background-color: #00bdff; 
+    left: 0;
+    right: 0;
+    top:100px;
+}
+
+#text
+{
+    position:fixed;
+    width:20%;
+    color:#0000ff;
+    font-size: 100%;
+    font-weight:bolder;
+    height:20px;
+    top:100px;
+    text-align:center;
+
+}
+#text:hover{
+    background-color: #bad0f4
+}
