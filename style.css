@@ -56,3 +56,6 @@ th, td
     border-collapse: collapse;
     font-size: 120%;
 }
+a:visited {
+    color: white;
+}
