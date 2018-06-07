@@ -43,16 +43,3 @@ header
 #text:hover{
     background-color: #bad0f4
 }
-table
-{
-    
-    border-collapse: collapse;
-    background-color: #206694;
-}
-th, td
-{
-    
-    border: 1px solid white;
-    border-collapse: collapse;
-    font-size: 120%;
-}
