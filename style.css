@@ -63,6 +63,7 @@ th, td
     border-color:white;
     background-color: white;
     color:#206694;
+    font-size: 120%;
     text-decoration: none;
 }
 #cmdcategory
@@ -72,6 +73,7 @@ th, td
     border-color:white;
     background-color: #206694;
     color:white;
+    font-size: 120%;
     text-decoration: none;
 }
 #cmdcategory:hover
