@@ -63,6 +63,7 @@ th, td
     border-color:white;
     background-color: white;
     color:#206694;
+    text-decoration: none;
 }
 #cmdcategory
 {
@@ -71,6 +72,7 @@ th, td
     border-color:white;
     background-color: #206694;
     color:white;
+    text-decoration: none;
 }
 #cmdcategory:hover
 {
