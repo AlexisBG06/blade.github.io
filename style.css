@@ -80,3 +80,21 @@ th, td
 {
     background-color: blue
 }
+#badge
+{
+    position:absolute;
+}
+#descframe
+{
+    visibility:hidden;
+    position:absolute;
+    background-color:black; 
+    color:white; 
+    font-weight:548;
+    border-radius: 10px; 
+    margin-top:-6vh;
+}
+#badge:hover #descframe
+{
+    visibility:visible;
+}
