@@ -84,6 +84,7 @@ th, td
 {
     visibility:hidden;
     position:absolute;
+    z-index: 2;
     background-color:black; 
     color:white; 
     font-weight:548;
