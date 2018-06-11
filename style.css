@@ -95,3 +95,12 @@ th, td
 {
     visibility:visible;
 }
+
+a
+{
+    color:white
+}
+a:visited
+{
+    color:white
+}
