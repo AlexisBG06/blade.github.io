@@ -39,10 +39,14 @@ header
     height:20px;
     top:15.1%;
     text-align:center;
+    border-width:1px;
+    border-style:solid;
+    border-color:white;
 
 }
 #text:hover{
     background-color: #bad0f4
+
 }
 table
 {
