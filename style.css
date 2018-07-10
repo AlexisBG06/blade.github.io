@@ -42,7 +42,8 @@ header
     border-width:1px;
     border-style:solid;
     border-color:white;
-
+    border-bottom-style: none;
+    border-top-style: none; 
 }
 #text:hover{
     background-color: #bad0f4
